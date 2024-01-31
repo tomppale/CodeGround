@@ -1,0 +1,69 @@
+The game can be played in many orders but this is probably the easiest and fastest.
+(NOTE: Talking to the NPC's is not required, but it may improve your gaming experience. Item's that can be picked up from ground don't serve a purpose, they are just extra activity)
+If you have trouble receiving a relic from the beaten NPC, input "observe (NPC name)". It contains an accurate name of the relic that you have to reference
+You can open the map via game by asking help and then pressing 8 -> "help" -> "8"
+
+1. After intro and all you start in Midgard. Head over to Alfheim -> "go alfheim"
+
+2. Head over to the lake -> "go lake" then rest -> "rest". You will receive you first blessing
+
+3. After that head over to palace. You'll find the elf queen Ljosalfar. Challenge her -> "challenge Ljosalfar" -> "yes"
+   She has one riddle -> answer: "star". After this you can receive your first relic -> "receive brightest star of alfheim"
+
+4. Done with Alfheim. Make your way back to Midgard -> "go alfheim" -> "go midgard"
+
+5. Next up Svartalfheim -> "go svartalfheim"
+
+6. Make sure brightest star of alfheim is in use -> "use brightest star of alfheim". You can then go to darkmist - > "go darkmist"
+
+7. Darkmist contains Eir, challenge her -> "challenge Eir" -> "yes". She has one riddle -> answer: "mielikuvitus"
+
+8. You can then receive a blessing -> "receive blessing of the healer valkyrie" -> to increase your blessing you have to use the blessing -> "use blessing of the healer valkyrie"
+
+9. Svartalfheim completed. To Midgard -> "go darkmist" -> go svartalfheim" -> "go midgard"
+
+10. Now to Helheim -> "go helheim". Then go to road -> "go road" then go to realmtear -> "go realmtear"
+
+11. Realmtear is actually one of the relic containers. Reach into it -> "reach realmtear". You'll receive cloak of winter, use it -> "use cloak of winter"
+
+12. To the chamber -> "go road" -> "go helheim" -> "go chamber".
+
+13. Chamber contains Kara. Challenge her -> "challenge Kara" -> "yes. Kara has two riddles -> answer1: "memory", answer2: "nothing".
+
+14. Receive a blessing -> "receive blessing of the stormy valkyrie". Use it -> "use blessing of the stormy valkyrie". Your blessing level should be 3, which is the max level
+
+15. Once again to Midgard -> "go helheim" -> "go midgard"
+
+16. Go to Muspelheim -> "go muspelheim". Go to volcano -> "go volcano". You'll find Surtr
+
+17. Challenge him -> "challenge Surtr" -> "yes". Surtr has three riddles -> answer1: "fire", answer2: "seed", answer3: "family".
+    (NOTE: After beating Surtr he gives you a message to deliver "er love pu". Keep it in mind)
+
+18. Receive Surtr's crown -> "receive crown of surtr" and use it -> "use crown of surtr".
+
+19. Make your way to lavafall "go muspelheim" -> "go lavafall", which is another relic container -> "reach lavafall". You'll get your first big relic
+
+20. Muspelheim done. To Midgard -> "go muspelheim" -> "go midgard"
+
+21. Go Vanaheim -> "go vanaheim". You'll find Sinmara. Challenge her -> "challenge Sinmara" -> "yes"
+
+22. Sinmara asks you about the message Surtr sent -> answer: "er love pu".
+    After this you can receive a relic -> "receive gauntlet of eternal ice". Use it -> "use gauntlet of eternal ice"
+
+23. Done here. Go midgard -> "go midgard", then go to Niflheim -> "go niflheim", to coldmist -> "go coldmist", go zeropoint -> "go zeropoint"
+
+24. Zeropoint contains relic container "blizzard heart of niflheim". Reach in -> "reach blizzard heart of niflheim". You'll receive your secong big relic
+
+25. Almost there. To midgard -> "go coldmist" -> "go niflheim" -> "go midgard". Last relic is in Asgard's council.
+
+26. To Asgard -> "go asgard", then to council -> "go council". You'll meet Odin
+
+27. Challenge him -> "challenge Odin" -> "yes". Odin has three riddles -> answer1: "earth", answer2: "water", answer3: "heart".
+
+28. Receive the last big relic -> "receive rune of ravens". Then one last time go to Midgard -> "go asgard" -> "go midgard"
+
+29. Use combine command -> "combine". You'll receive the ultimate relic "triage of norse". Use it -> "use triage of norse"
+
+30. Now you can enter through gates of temple of Ymir. -> "go jotunheim" -> "go temple entrance" -> "go temple"
+
+You win!
